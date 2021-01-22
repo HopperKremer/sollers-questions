@@ -42,6 +42,9 @@
         // 1. online repo for nodejs packages and modules which can be downloaded from npmjs.org
         // 2. it has the command line utility to install nodejs packages, version management and dependency management.
 // 13. What is a module?
+    // In Node.js, Modules are the blocks of encapsulated code that communicates with an
+    // external application on the basis of their related functionality.
+    // Modules can be a single file or a collection of multiples files/folders.
 // 14. what is difference between global and local installation?
 // 15. What does package.json do? What are attributes of package.json?
 // 16. What is callback function?
